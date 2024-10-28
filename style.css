@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+  text-align: center;
+  background-color: rgb(99, 107, 99);
+  margin: 10px;
+}
+.top {
+  padding: 5px;
+}
+
+.section1,
+.section2,
+.section3 {
+  margin: 10px;
+  background-color: rgb(218, 221, 221);
+  padding: 50px;
+  margin: 10px;
+}
+footer {
+  background-color: rgb(218, 221, 221);
+  text-align: center;
+  padding: 5px;
+  margin: 10px;
+}
+
+h2 {
+  color: orange;
+}
+.top img {
+  border-radius: 50%;
+
+  border: solid 2px orange;
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+}
+a {
+  color: orange;
+}
